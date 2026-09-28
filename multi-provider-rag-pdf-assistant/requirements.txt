@@ -1,0 +1,11 @@
+gradio
+pypdf
+ibm-watsonx-ai
+langchain-ibm
+langchain-ollama
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-chroma
+chromadb
+python-dotenv
