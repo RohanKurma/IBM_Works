@@ -1,5 +1,15 @@
 # Semantic Similarity Search & Embedding Benchmark
 
+## Application Preview
+
+The interactive Gradio interface lets users enter a natural-language query, switch between embedding models and similarity metrics, and inspect the ranked semantic-search results.
+
+<p align="center">
+  <img src="assets/app_screenshot.png"
+       alt="Semantic Similarity Search Benchmark Gradio application"
+       width="900">
+</p>
+
 A portfolio project that explains and demonstrates the mathematics behind **vector similarity search**.
 
 The project starts with the core calculations used in embedding search:
