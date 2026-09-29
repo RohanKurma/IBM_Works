@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+torch
+sentence-transformers
+gradio
