@@ -47,21 +47,14 @@ Top-K Grocery Items
 
 ## Application Preview
 
-Save your screenshot as:
 
-```text
-assets/app-screenshot.png
-```
 
-Then add:
-
-```html
 <p align="center">
-  <img src="assets/app-screenshot.png"
+  <img src="assets/sc1.png"
        alt="ChromaDB Semantic Grocery Search"
        width="900">
 </p>
-```
+
 
 ## Example queries
 
