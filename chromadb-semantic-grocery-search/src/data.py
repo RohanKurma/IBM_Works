@@ -1,0 +1,16 @@
+GROCERY_ITEMS = [
+    {"id": "food_1", "text": "fresh red apples", "category": "fruit"},
+    {"id": "food_2", "text": "organic bananas", "category": "fruit"},
+    {"id": "food_3", "text": "ripe mangoes", "category": "fruit"},
+    {"id": "food_4", "text": "whole wheat bread", "category": "bakery"},
+    {"id": "food_5", "text": "farm-fresh eggs", "category": "dairy_eggs"},
+    {"id": "food_6", "text": "natural yogurt", "category": "dairy_eggs"},
+    {"id": "food_7", "text": "frozen vegetables", "category": "vegetables"},
+    {"id": "food_8", "text": "grass-fed beef", "category": "meat"},
+    {"id": "food_9", "text": "free-range chicken", "category": "meat"},
+    {"id": "food_10", "text": "fresh salmon fillet", "category": "seafood"},
+    {"id": "food_11", "text": "aromatic coffee beans", "category": "beverages"},
+    {"id": "food_12", "text": "pure honey", "category": "pantry"},
+    {"id": "food_13", "text": "golden apple", "category": "fruit"},
+    {"id": "food_14", "text": "red fruit", "category": "fruit"},
+]
