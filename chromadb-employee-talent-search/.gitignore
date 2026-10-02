@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+chroma_data/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
