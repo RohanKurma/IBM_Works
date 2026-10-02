@@ -1,0 +1,4 @@
+# Lightweight deps for the unit tests (no embedding model or vector DB needed)
+pytest>=8.0
+requests>=2.31
+python-dotenv>=1.0

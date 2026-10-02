@@ -1,0 +1,1425 @@
+[
+  {
+    "food_id": 1,
+    "food_name": "Apple Pie",
+    "food_description": "A classic dessert made with a buttery, flaky crust filled with spiced, tender apples.",
+    "food_calories_per_serving": 320,
+    "food_nutritional_factors": {
+      "carbohydrates": "42g",
+      "protein": "2g",
+      "fat": "16g"
+    },
+    "food_ingredients": [
+      "Apples",
+      "Flour",
+      "Butter",
+      "Sugar",
+      "Cinnamon",
+      "Nutmeg"
+    ],
+    "food_health_benefits": "Rich in antioxidants and dietary fiber",
+    "cooking_method": "Baking",
+    "cuisine_type": "American",
+    "food_features": {
+      "taste": "sweet",
+      "texture": "crisp and tender",
+      "appearance": "golden brown",
+      "preparation": "baking",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 2,
+    "food_name": "Classic Cheeseburger",
+    "food_description": "A juicy grilled beef patty topped with melted cheddar on a toasted brioche bun.",
+    "food_calories_per_serving": 650,
+    "food_nutritional_factors": {
+      "carbohydrates": "40g",
+      "protein": "35g",
+      "fat": "38g"
+    },
+    "food_ingredients": [
+      "Beef patty",
+      "Cheddar",
+      "Brioche bun",
+      "Lettuce",
+      "Tomato",
+      "Pickles"
+    ],
+    "food_health_benefits": "Good source of protein, iron and vitamin B12",
+    "cooking_method": "Grilling",
+    "cuisine_type": "American",
+    "food_features": {
+      "taste": "savory",
+      "texture": "juicy and soft",
+      "appearance": "stacked and hearty",
+      "preparation": "grilling",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 3,
+    "food_name": "Buttermilk Pancakes",
+    "food_description": "Fluffy stacked pancakes served with butter and warm maple syrup, a weekend breakfast favourite.",
+    "food_calories_per_serving": 420,
+    "food_nutritional_factors": {
+      "carbohydrates": "62g",
+      "protein": "10g",
+      "fat": "14g"
+    },
+    "food_ingredients": [
+      "Flour",
+      "Buttermilk",
+      "Eggs",
+      "Butter",
+      "Maple syrup"
+    ],
+    "food_health_benefits": "Provides quick energy from carbohydrates",
+    "cooking_method": "Pan-frying",
+    "cuisine_type": "American",
+    "food_features": {
+      "taste": "sweet",
+      "texture": "fluffy",
+      "appearance": "golden stack",
+      "preparation": "pan-frying",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 4,
+    "food_name": "Chicken Noodle Soup",
+    "food_description": "A soothing, warming broth with tender chicken, vegetables and noodles, perfect when feeling sick or on a cold evening.",
+    "food_calories_per_serving": 230,
+    "food_nutritional_factors": {
+      "carbohydrates": "24g",
+      "protein": "18g",
+      "fat": "6g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Egg noodles",
+      "Carrots",
+      "Celery",
+      "Onion",
+      "Chicken broth"
+    ],
+    "food_health_benefits": "Hydrating and easy to digest; supports recovery",
+    "cooking_method": "Simmering",
+    "cuisine_type": "American",
+    "food_features": {
+      "taste": "savory",
+      "texture": "brothy and tender",
+      "appearance": "clear golden broth",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 5,
+    "food_name": "Macaroni and Cheese",
+    "food_description": "Creamy, cheesy baked pasta with a crunchy breadcrumb top: ultimate comfort food.",
+    "food_calories_per_serving": 540,
+    "food_nutritional_factors": {
+      "carbohydrates": "52g",
+      "protein": "20g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Macaroni",
+      "Cheddar",
+      "Milk",
+      "Butter",
+      "Breadcrumbs"
+    ],
+    "food_health_benefits": "Good source of calcium",
+    "cooking_method": "Baking",
+    "cuisine_type": "American",
+    "food_features": {
+      "taste": "rich and cheesy",
+      "texture": "creamy",
+      "appearance": "golden crust",
+      "preparation": "baking",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 6,
+    "food_name": "Margherita Pizza",
+    "food_description": "Wood-fired pizza with tomato sauce, fresh mozzarella and basil.",
+    "food_calories_per_serving": 560,
+    "food_nutritional_factors": {
+      "carbohydrates": "68g",
+      "protein": "22g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Pizza dough",
+      "Tomato sauce",
+      "Mozzarella",
+      "Basil",
+      "Olive oil"
+    ],
+    "food_health_benefits": "Contains lycopene from tomatoes and calcium from cheese",
+    "cooking_method": "Baking",
+    "cuisine_type": "Italian",
+    "food_features": {
+      "taste": "savory",
+      "texture": "crispy and chewy",
+      "appearance": "red, white and green",
+      "preparation": "baking",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 7,
+    "food_name": "Fettuccine Alfredo",
+    "food_description": "Ribbons of fettuccine tossed in a rich, creamy parmesan and butter sauce.",
+    "food_calories_per_serving": 720,
+    "food_nutritional_factors": {
+      "carbohydrates": "70g",
+      "protein": "22g",
+      "fat": "40g"
+    },
+    "food_ingredients": [
+      "Fettuccine",
+      "Parmesan",
+      "Butter",
+      "Heavy cream",
+      "Garlic"
+    ],
+    "food_health_benefits": "Good source of calcium and energy",
+    "cooking_method": "Boiling",
+    "cuisine_type": "Italian",
+    "food_features": {
+      "taste": "rich and creamy",
+      "texture": "silky",
+      "appearance": "pale and glossy",
+      "preparation": "boiling",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 8,
+    "food_name": "Minestrone Soup",
+    "food_description": "A hearty vegetable and bean soup with small pasta in a tomato broth.",
+    "food_calories_per_serving": 210,
+    "food_nutritional_factors": {
+      "carbohydrates": "32g",
+      "protein": "8g",
+      "fat": "5g"
+    },
+    "food_ingredients": [
+      "Cannellini beans",
+      "Pasta",
+      "Zucchini",
+      "Tomatoes",
+      "Carrots",
+      "Celery"
+    ],
+    "food_health_benefits": "High in fiber and vitamins A and C",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Italian",
+    "food_features": {
+      "taste": "savory and herby",
+      "texture": "chunky",
+      "appearance": "colourful",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 9,
+    "food_name": "Caprese Salad",
+    "food_description": "Fresh mozzarella and ripe tomato slices layered with basil and olive oil.",
+    "food_calories_per_serving": 250,
+    "food_nutritional_factors": {
+      "carbohydrates": "6g",
+      "protein": "14g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Mozzarella",
+      "Tomatoes",
+      "Basil",
+      "Olive oil",
+      "Balsamic glaze"
+    ],
+    "food_health_benefits": "Healthy fats and antioxidants",
+    "cooking_method": "Raw",
+    "cuisine_type": "Italian",
+    "food_features": {
+      "taste": "fresh and tangy",
+      "texture": "soft and juicy",
+      "appearance": "red and white layers",
+      "preparation": "raw",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 10,
+    "food_name": "Tiramisu",
+    "food_description": "Layers of espresso-soaked ladyfingers and mascarpone cream dusted with cocoa.",
+    "food_calories_per_serving": 450,
+    "food_nutritional_factors": {
+      "carbohydrates": "40g",
+      "protein": "8g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Ladyfingers",
+      "Mascarpone",
+      "Espresso",
+      "Cocoa powder",
+      "Eggs",
+      "Sugar"
+    ],
+    "food_health_benefits": "Contains calcium; coffee antioxidants",
+    "cooking_method": "No-bake",
+    "cuisine_type": "Italian",
+    "food_features": {
+      "taste": "sweet and coffee-rich",
+      "texture": "creamy",
+      "appearance": "layered with cocoa top",
+      "preparation": "no-bake",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 11,
+    "food_name": "Mushroom Risotto",
+    "food_description": "Creamy arborio rice slowly cooked with earthy mushrooms and parmesan.",
+    "food_calories_per_serving": 480,
+    "food_nutritional_factors": {
+      "carbohydrates": "62g",
+      "protein": "12g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Arborio rice",
+      "Mushrooms",
+      "Parmesan",
+      "White wine",
+      "Onion",
+      "Butter"
+    ],
+    "food_health_benefits": "Source of B vitamins and selenium from mushrooms",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Italian",
+    "food_features": {
+      "taste": "earthy and savory",
+      "texture": "creamy",
+      "appearance": "creamy beige",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 12,
+    "food_name": "Pad Thai",
+    "food_description": "Stir-fried rice noodles with shrimp, egg, peanuts and a tangy tamarind sauce.",
+    "food_calories_per_serving": 520,
+    "food_nutritional_factors": {
+      "carbohydrates": "60g",
+      "protein": "20g",
+      "fat": "22g"
+    },
+    "food_ingredients": [
+      "Rice noodles",
+      "Shrimp",
+      "Eggs",
+      "Bean sprouts",
+      "Peanuts",
+      "Tamarind"
+    ],
+    "food_health_benefits": "Protein from shrimp and eggs",
+    "cooking_method": "Stir-frying",
+    "cuisine_type": "Thai",
+    "food_features": {
+      "taste": "sweet, sour and savory",
+      "texture": "chewy with crunch",
+      "appearance": "colourful noodles",
+      "preparation": "stir-frying",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 13,
+    "food_name": "Green Curry",
+    "food_description": "A fragrant, spicy coconut curry with chicken and Thai basil.",
+    "food_calories_per_serving": 480,
+    "food_nutritional_factors": {
+      "carbohydrates": "18g",
+      "protein": "26g",
+      "fat": "34g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Coconut milk",
+      "Green curry paste",
+      "Thai basil",
+      "Eggplant",
+      "Bamboo shoots"
+    ],
+    "food_health_benefits": "Capsaicin may support metabolism",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Thai",
+    "food_features": {
+      "taste": "spicy and aromatic",
+      "texture": "creamy",
+      "appearance": "vibrant green",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 14,
+    "food_name": "Tom Yum Soup",
+    "food_description": "A hot and sour soup with shrimp, lemongrass and chili: light but bold.",
+    "food_calories_per_serving": 180,
+    "food_nutritional_factors": {
+      "carbohydrates": "10g",
+      "protein": "16g",
+      "fat": "7g"
+    },
+    "food_ingredients": [
+      "Shrimp",
+      "Lemongrass",
+      "Galangal",
+      "Kaffir lime leaves",
+      "Chili",
+      "Mushrooms"
+    ],
+    "food_health_benefits": "Low in calories; immune-supporting herbs",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Thai",
+    "food_features": {
+      "taste": "spicy and sour",
+      "texture": "brothy",
+      "appearance": "clear red-orange broth",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 15,
+    "food_name": "Mango Sticky Rice",
+    "food_description": "Sweet coconut sticky rice served with ripe mango slices.",
+    "food_calories_per_serving": 380,
+    "food_nutritional_factors": {
+      "carbohydrates": "72g",
+      "protein": "5g",
+      "fat": "9g"
+    },
+    "food_ingredients": [
+      "Glutinous rice",
+      "Mango",
+      "Coconut milk",
+      "Sugar",
+      "Sesame seeds"
+    ],
+    "food_health_benefits": "Vitamin C and A from mango",
+    "cooking_method": "Steaming",
+    "cuisine_type": "Thai",
+    "food_features": {
+      "taste": "sweet and tropical",
+      "texture": "sticky and soft",
+      "appearance": "yellow and white",
+      "preparation": "steaming",
+      "serving_type": "room temperature"
+    }
+  },
+  {
+    "food_id": 16,
+    "food_name": "Thai Papaya Salad",
+    "food_description": "Shredded green papaya pounded with lime, chili and peanuts: crunchy and refreshing.",
+    "food_calories_per_serving": 150,
+    "food_nutritional_factors": {
+      "carbohydrates": "22g",
+      "protein": "4g",
+      "fat": "5g"
+    },
+    "food_ingredients": [
+      "Green papaya",
+      "Lime",
+      "Fish sauce",
+      "Chili",
+      "Peanuts",
+      "Cherry tomatoes"
+    ],
+    "food_health_benefits": "High in vitamin C and fiber, very low calorie",
+    "cooking_method": "Raw",
+    "cuisine_type": "Thai",
+    "food_features": {
+      "taste": "spicy, sour and fresh",
+      "texture": "crunchy",
+      "appearance": "bright green shreds",
+      "preparation": "raw",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 17,
+    "food_name": "Chicken Tacos",
+    "food_description": "Soft corn tortillas filled with grilled chicken, fresh salsa and cilantro.",
+    "food_calories_per_serving": 420,
+    "food_nutritional_factors": {
+      "carbohydrates": "36g",
+      "protein": "28g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Corn tortillas",
+      "Chicken",
+      "Salsa",
+      "Onion",
+      "Cilantro",
+      "Lime"
+    ],
+    "food_health_benefits": "Lean protein and fresh vegetables",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Mexican",
+    "food_features": {
+      "taste": "zesty and savory",
+      "texture": "soft and juicy",
+      "appearance": "colourful",
+      "preparation": "grilling",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 18,
+    "food_name": "Beef Burrito",
+    "food_description": "A large tortilla stuffed with seasoned beef, rice, beans and cheese.",
+    "food_calories_per_serving": 780,
+    "food_nutritional_factors": {
+      "carbohydrates": "82g",
+      "protein": "38g",
+      "fat": "32g"
+    },
+    "food_ingredients": [
+      "Flour tortilla",
+      "Beef",
+      "Rice",
+      "Black beans",
+      "Cheese",
+      "Sour cream"
+    ],
+    "food_health_benefits": "High in protein and fiber",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Mexican",
+    "food_features": {
+      "taste": "hearty and savory",
+      "texture": "soft and filling",
+      "appearance": "wrapped",
+      "preparation": "grilling",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 19,
+    "food_name": "Guacamole with Chips",
+    "food_description": "Creamy mashed avocado with lime and cilantro, served with tortilla chips.",
+    "food_calories_per_serving": 380,
+    "food_nutritional_factors": {
+      "carbohydrates": "34g",
+      "protein": "5g",
+      "fat": "26g"
+    },
+    "food_ingredients": [
+      "Avocado",
+      "Lime",
+      "Onion",
+      "Tomato",
+      "Cilantro",
+      "Tortilla chips"
+    ],
+    "food_health_benefits": "Heart-healthy monounsaturated fats",
+    "cooking_method": "Raw",
+    "cuisine_type": "Mexican",
+    "food_features": {
+      "taste": "fresh and tangy",
+      "texture": "creamy and crunchy",
+      "appearance": "green",
+      "preparation": "raw",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 20,
+    "food_name": "Chicken Enchiladas",
+    "food_description": "Rolled tortillas filled with chicken, smothered in red sauce and melted cheese.",
+    "food_calories_per_serving": 560,
+    "food_nutritional_factors": {
+      "carbohydrates": "44g",
+      "protein": "32g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Corn tortillas",
+      "Chicken",
+      "Enchilada sauce",
+      "Cheese",
+      "Onion"
+    ],
+    "food_health_benefits": "Good source of protein",
+    "cooking_method": "Baking",
+    "cuisine_type": "Mexican",
+    "food_features": {
+      "taste": "spicy and savory",
+      "texture": "soft",
+      "appearance": "saucy red",
+      "preparation": "baking",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 21,
+    "food_name": "Churros",
+    "food_description": "Crispy fried dough sticks rolled in cinnamon sugar with chocolate dipping sauce.",
+    "food_calories_per_serving": 360,
+    "food_nutritional_factors": {
+      "carbohydrates": "44g",
+      "protein": "4g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Flour",
+      "Sugar",
+      "Cinnamon",
+      "Butter",
+      "Eggs",
+      "Chocolate sauce"
+    ],
+    "food_health_benefits": "Quick energy",
+    "cooking_method": "Deep-frying",
+    "cuisine_type": "Mexican",
+    "food_features": {
+      "taste": "sweet and cinnamon",
+      "texture": "crispy outside, soft inside",
+      "appearance": "golden ridged sticks",
+      "preparation": "deep-frying",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 22,
+    "food_name": "Chicken Tikka Masala",
+    "food_description": "Tandoor-marinated chicken pieces in a creamy, spiced tomato sauce.",
+    "food_calories_per_serving": 590,
+    "food_nutritional_factors": {
+      "carbohydrates": "24g",
+      "protein": "38g",
+      "fat": "36g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Yogurt",
+      "Tomato",
+      "Cream",
+      "Garam masala",
+      "Ginger"
+    ],
+    "food_health_benefits": "High in protein; spices with anti-inflammatory properties",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Indian",
+    "food_features": {
+      "taste": "spicy and creamy",
+      "texture": "tender",
+      "appearance": "orange-red sauce",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 23,
+    "food_name": "Chana Masala",
+    "food_description": "A spicy, tangy chickpea curry, a vegan protein-packed classic.",
+    "food_calories_per_serving": 340,
+    "food_nutritional_factors": {
+      "carbohydrates": "46g",
+      "protein": "14g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Chickpeas",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cumin"
+    ],
+    "food_health_benefits": "High in plant protein and fiber",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Indian",
+    "food_features": {
+      "taste": "spicy and tangy",
+      "texture": "hearty",
+      "appearance": "rich brown",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 24,
+    "food_name": "Palak Paneer",
+    "food_description": "Cubes of paneer cheese in a smooth, spiced spinach gravy.",
+    "food_calories_per_serving": 380,
+    "food_nutritional_factors": {
+      "carbohydrates": "14g",
+      "protein": "18g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Spinach",
+      "Paneer",
+      "Onion",
+      "Garlic",
+      "Cream",
+      "Garam masala"
+    ],
+    "food_health_benefits": "Iron, calcium and vitamin K",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Indian",
+    "food_features": {
+      "taste": "mildly spiced and earthy",
+      "texture": "creamy",
+      "appearance": "deep green",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 25,
+    "food_name": "Vegetable Biryani",
+    "food_description": "Fragrant layered basmati rice with vegetables, saffron and whole spices.",
+    "food_calories_per_serving": 450,
+    "food_nutritional_factors": {
+      "carbohydrates": "72g",
+      "protein": "10g",
+      "fat": "13g"
+    },
+    "food_ingredients": [
+      "Basmati rice",
+      "Mixed vegetables",
+      "Saffron",
+      "Yogurt",
+      "Mint",
+      "Fried onions"
+    ],
+    "food_health_benefits": "Fiber and vitamins from vegetables",
+    "cooking_method": "Steaming",
+    "cuisine_type": "Indian",
+    "food_features": {
+      "taste": "aromatic and spiced",
+      "texture": "fluffy",
+      "appearance": "golden and colourful",
+      "preparation": "steaming",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 26,
+    "food_name": "Gulab Jamun",
+    "food_description": "Soft milk dumplings soaked in rose and cardamom syrup.",
+    "food_calories_per_serving": 300,
+    "food_nutritional_factors": {
+      "carbohydrates": "48g",
+      "protein": "4g",
+      "fat": "11g"
+    },
+    "food_ingredients": [
+      "Milk solids",
+      "Flour",
+      "Sugar syrup",
+      "Cardamom",
+      "Rose water"
+    ],
+    "food_health_benefits": "Quick energy",
+    "cooking_method": "Deep-frying",
+    "cuisine_type": "Indian",
+    "food_features": {
+      "taste": "very sweet and floral",
+      "texture": "soft and syrupy",
+      "appearance": "dark golden balls",
+      "preparation": "deep-frying",
+      "serving_type": "warm"
+    }
+  },
+  {
+    "food_id": 27,
+    "food_name": "Salmon Sushi Roll",
+    "food_description": "Rolls of seasoned rice with fresh salmon, cucumber and avocado wrapped in nori.",
+    "food_calories_per_serving": 300,
+    "food_nutritional_factors": {
+      "carbohydrates": "42g",
+      "protein": "14g",
+      "fat": "8g"
+    },
+    "food_ingredients": [
+      "Sushi rice",
+      "Salmon",
+      "Nori",
+      "Cucumber",
+      "Avocado",
+      "Rice vinegar"
+    ],
+    "food_health_benefits": "Omega-3 fatty acids from salmon",
+    "cooking_method": "Raw",
+    "cuisine_type": "Japanese",
+    "food_features": {
+      "taste": "fresh and delicate",
+      "texture": "soft",
+      "appearance": "neat rolls",
+      "preparation": "raw",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 28,
+    "food_name": "Miso Soup",
+    "food_description": "A light, savory broth of miso with tofu and seaweed.",
+    "food_calories_per_serving": 90,
+    "food_nutritional_factors": {
+      "carbohydrates": "8g",
+      "protein": "6g",
+      "fat": "3g"
+    },
+    "food_ingredients": [
+      "Miso paste",
+      "Tofu",
+      "Wakame seaweed",
+      "Green onion",
+      "Dashi"
+    ],
+    "food_health_benefits": "Probiotics from fermented miso; very low calorie",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Japanese",
+    "food_features": {
+      "taste": "umami",
+      "texture": "light and silky",
+      "appearance": "cloudy broth",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 29,
+    "food_name": "Chicken Teriyaki",
+    "food_description": "Grilled chicken glazed with a sweet soy teriyaki sauce, served with rice.",
+    "food_calories_per_serving": 480,
+    "food_nutritional_factors": {
+      "carbohydrates": "38g",
+      "protein": "36g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Chicken thigh",
+      "Soy sauce",
+      "Mirin",
+      "Sugar",
+      "Ginger",
+      "Rice"
+    ],
+    "food_health_benefits": "High in protein",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Japanese",
+    "food_features": {
+      "taste": "sweet and savory",
+      "texture": "juicy",
+      "appearance": "glossy glaze",
+      "preparation": "grilling",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 30,
+    "food_name": "Tonkotsu Ramen",
+    "food_description": "Rich pork bone broth with springy noodles, chashu pork and a soft egg: comfort for a cold evening.",
+    "food_calories_per_serving": 690,
+    "food_nutritional_factors": {
+      "carbohydrates": "70g",
+      "protein": "30g",
+      "fat": "32g"
+    },
+    "food_ingredients": [
+      "Ramen noodles",
+      "Pork belly",
+      "Pork bone broth",
+      "Soft-boiled egg",
+      "Green onion",
+      "Nori"
+    ],
+    "food_health_benefits": "Collagen from bone broth",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Japanese",
+    "food_features": {
+      "taste": "rich and umami",
+      "texture": "silky and chewy",
+      "appearance": "steaming bowl",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 31,
+    "food_name": "Edamame",
+    "food_description": "Steamed young soybeans sprinkled with sea salt: a light, protein-rich snack.",
+    "food_calories_per_serving": 120,
+    "food_nutritional_factors": {
+      "carbohydrates": "9g",
+      "protein": "11g",
+      "fat": "5g"
+    },
+    "food_ingredients": [
+      "Edamame",
+      "Sea salt"
+    ],
+    "food_health_benefits": "Complete plant protein, fiber and folate",
+    "cooking_method": "Steaming",
+    "cuisine_type": "Japanese",
+    "food_features": {
+      "taste": "salty and fresh",
+      "texture": "firm",
+      "appearance": "bright green pods",
+      "preparation": "steaming",
+      "serving_type": "warm"
+    }
+  },
+  {
+    "food_id": 32,
+    "food_name": "Croissant",
+    "food_description": "A flaky, buttery laminated pastry, a classic French breakfast.",
+    "food_calories_per_serving": 270,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "5g",
+      "fat": "14g"
+    },
+    "food_ingredients": [
+      "Flour",
+      "Butter",
+      "Yeast",
+      "Milk",
+      "Sugar"
+    ],
+    "food_health_benefits": "Quick energy",
+    "cooking_method": "Baking",
+    "cuisine_type": "French",
+    "food_features": {
+      "taste": "buttery",
+      "texture": "flaky",
+      "appearance": "golden crescent",
+      "preparation": "baking",
+      "serving_type": "warm"
+    }
+  },
+  {
+    "food_id": 33,
+    "food_name": "Ratatouille",
+    "food_description": "A Provençal medley of slow-cooked summer vegetables and herbs.",
+    "food_calories_per_serving": 180,
+    "food_nutritional_factors": {
+      "carbohydrates": "20g",
+      "protein": "4g",
+      "fat": "10g"
+    },
+    "food_ingredients": [
+      "Eggplant",
+      "Zucchini",
+      "Bell peppers",
+      "Tomatoes",
+      "Onion",
+      "Herbes de Provence"
+    ],
+    "food_health_benefits": "Rich in vitamins and antioxidants, low calorie",
+    "cooking_method": "Baking",
+    "cuisine_type": "French",
+    "food_features": {
+      "taste": "herby and savory",
+      "texture": "tender",
+      "appearance": "colourful spiral",
+      "preparation": "baking",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 34,
+    "food_name": "Coq au Vin",
+    "food_description": "Chicken slowly braised in red wine with mushrooms and bacon.",
+    "food_calories_per_serving": 620,
+    "food_nutritional_factors": {
+      "carbohydrates": "12g",
+      "protein": "48g",
+      "fat": "34g"
+    },
+    "food_ingredients": [
+      "Chicken",
+      "Red wine",
+      "Mushrooms",
+      "Bacon",
+      "Onions",
+      "Garlic"
+    ],
+    "food_health_benefits": "High in protein",
+    "cooking_method": "Braising",
+    "cuisine_type": "French",
+    "food_features": {
+      "taste": "rich and savory",
+      "texture": "tender",
+      "appearance": "deep burgundy",
+      "preparation": "braising",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 35,
+    "food_name": "Crème Brûlée",
+    "food_description": "Silky vanilla custard under a crackling caramelised sugar crust, for a special occasion.",
+    "food_calories_per_serving": 400,
+    "food_nutritional_factors": {
+      "carbohydrates": "34g",
+      "protein": "5g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Heavy cream",
+      "Egg yolks",
+      "Sugar",
+      "Vanilla"
+    ],
+    "food_health_benefits": "Source of calcium",
+    "cooking_method": "Baking",
+    "cuisine_type": "French",
+    "food_features": {
+      "taste": "sweet and vanilla",
+      "texture": "creamy with crisp top",
+      "appearance": "amber crust",
+      "preparation": "baking",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 36,
+    "food_name": "Greek Salad",
+    "food_description": "Crisp vegetables with feta and olives dressed in olive oil.",
+    "food_calories_per_serving": 220,
+    "food_nutritional_factors": {
+      "carbohydrates": "12g",
+      "protein": "7g",
+      "fat": "17g"
+    },
+    "food_ingredients": [
+      "Tomatoes",
+      "Cucumber",
+      "Feta",
+      "Kalamata olives",
+      "Red onion",
+      "Olive oil"
+    ],
+    "food_health_benefits": "Heart-healthy fats and antioxidants",
+    "cooking_method": "Raw",
+    "cuisine_type": "Mediterranean",
+    "food_features": {
+      "taste": "fresh and salty",
+      "texture": "crunchy",
+      "appearance": "colourful",
+      "preparation": "raw",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 37,
+    "food_name": "Falafel Wrap",
+    "food_description": "Crispy chickpea falafel wrapped in pita with tahini and salad.",
+    "food_calories_per_serving": 510,
+    "food_nutritional_factors": {
+      "carbohydrates": "60g",
+      "protein": "18g",
+      "fat": "22g"
+    },
+    "food_ingredients": [
+      "Chickpeas",
+      "Pita",
+      "Tahini",
+      "Lettuce",
+      "Tomato",
+      "Parsley"
+    ],
+    "food_health_benefits": "Plant protein and fiber",
+    "cooking_method": "Deep-frying",
+    "cuisine_type": "Mediterranean",
+    "food_features": {
+      "taste": "herby and nutty",
+      "texture": "crispy and soft",
+      "appearance": "wrapped",
+      "preparation": "deep-frying",
+      "serving_type": "warm"
+    }
+  },
+  {
+    "food_id": 38,
+    "food_name": "Hummus Plate",
+    "food_description": "Smooth chickpea and tahini dip served with warm pita.",
+    "food_calories_per_serving": 290,
+    "food_nutritional_factors": {
+      "carbohydrates": "30g",
+      "protein": "10g",
+      "fat": "15g"
+    },
+    "food_ingredients": [
+      "Chickpeas",
+      "Tahini",
+      "Lemon",
+      "Garlic",
+      "Olive oil",
+      "Pita"
+    ],
+    "food_health_benefits": "Fiber, plant protein and healthy fats",
+    "cooking_method": "Blending",
+    "cuisine_type": "Mediterranean",
+    "food_features": {
+      "taste": "nutty and lemony",
+      "texture": "smooth",
+      "appearance": "creamy beige",
+      "preparation": "blending",
+      "serving_type": "room temperature"
+    }
+  },
+  {
+    "food_id": 39,
+    "food_name": "Grilled Lemon Herb Salmon",
+    "food_description": "Salmon fillet grilled with lemon, garlic and fresh herbs.",
+    "food_calories_per_serving": 420,
+    "food_nutritional_factors": {
+      "carbohydrates": "4g",
+      "protein": "40g",
+      "fat": "26g"
+    },
+    "food_ingredients": [
+      "Salmon",
+      "Lemon",
+      "Garlic",
+      "Dill",
+      "Olive oil"
+    ],
+    "food_health_benefits": "Omega-3 fatty acids and high-quality protein",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Mediterranean",
+    "food_features": {
+      "taste": "fresh and citrusy",
+      "texture": "flaky",
+      "appearance": "pink with char marks",
+      "preparation": "grilling",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 40,
+    "food_name": "Shakshuka",
+    "food_description": "Eggs gently poached in a spiced tomato and pepper sauce: a great protein-rich breakfast.",
+    "food_calories_per_serving": 310,
+    "food_nutritional_factors": {
+      "carbohydrates": "18g",
+      "protein": "18g",
+      "fat": "19g"
+    },
+    "food_ingredients": [
+      "Eggs",
+      "Tomatoes",
+      "Bell peppers",
+      "Onion",
+      "Cumin",
+      "Paprika"
+    ],
+    "food_health_benefits": "Protein and lycopene",
+    "cooking_method": "Simmering",
+    "cuisine_type": "Mediterranean",
+    "food_features": {
+      "taste": "spiced and savory",
+      "texture": "saucy",
+      "appearance": "red with sunny eggs",
+      "preparation": "simmering",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 41,
+    "food_name": "Quinoa Buddha Bowl",
+    "food_description": "A nourishing bowl of quinoa, roasted sweet potato, chickpeas and greens.",
+    "food_calories_per_serving": 450,
+    "food_nutritional_factors": {
+      "carbohydrates": "52g",
+      "protein": "18g",
+      "fat": "18g"
+    },
+    "food_ingredients": [
+      "Quinoa",
+      "Chickpeas",
+      "Kale",
+      "Sweet potato",
+      "Avocado",
+      "Tahini"
+    ],
+    "food_health_benefits": "Complete protein, fiber and vitamins",
+    "cooking_method": "Roasting",
+    "cuisine_type": "Health Food",
+    "food_features": {
+      "taste": "earthy and nutty",
+      "texture": "hearty",
+      "appearance": "colourful bowl",
+      "preparation": "roasting",
+      "serving_type": "warm"
+    }
+  },
+  {
+    "food_id": 42,
+    "food_name": "Greek Yogurt Parfait",
+    "food_description": "Layers of protein-rich Greek yogurt, crunchy granola and fresh berries: a healthy breakfast.",
+    "food_calories_per_serving": 260,
+    "food_nutritional_factors": {
+      "carbohydrates": "34g",
+      "protein": "17g",
+      "fat": "6g"
+    },
+    "food_ingredients": [
+      "Greek yogurt",
+      "Granola",
+      "Berries",
+      "Honey"
+    ],
+    "food_health_benefits": "Probiotics, protein and antioxidants",
+    "cooking_method": "No-bake",
+    "cuisine_type": "Health Food",
+    "food_features": {
+      "taste": "sweet and tangy",
+      "texture": "creamy and crunchy",
+      "appearance": "layered",
+      "preparation": "no-bake",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 43,
+    "food_name": "Grilled Chicken Salad",
+    "food_description": "Lean grilled chicken over crisp greens: a light, high-protein lunch.",
+    "food_calories_per_serving": 320,
+    "food_nutritional_factors": {
+      "carbohydrates": "12g",
+      "protein": "38g",
+      "fat": "13g"
+    },
+    "food_ingredients": [
+      "Chicken breast",
+      "Mixed greens",
+      "Cherry tomatoes",
+      "Cucumber",
+      "Vinaigrette"
+    ],
+    "food_health_benefits": "High protein, low calorie; supports muscle recovery",
+    "cooking_method": "Grilling",
+    "cuisine_type": "Health Food",
+    "food_features": {
+      "taste": "fresh and savory",
+      "texture": "crisp",
+      "appearance": "green with sliced chicken",
+      "preparation": "grilling",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 44,
+    "food_name": "Green Smoothie",
+    "food_description": "A refreshing blend of spinach, banana and pineapple.",
+    "food_calories_per_serving": 180,
+    "food_nutritional_factors": {
+      "carbohydrates": "32g",
+      "protein": "5g",
+      "fat": "4g"
+    },
+    "food_ingredients": [
+      "Spinach",
+      "Banana",
+      "Pineapple",
+      "Almond milk",
+      "Chia seeds"
+    ],
+    "food_health_benefits": "Vitamins, minerals and fiber",
+    "cooking_method": "Blending",
+    "cuisine_type": "Health Food",
+    "food_features": {
+      "taste": "sweet and fresh",
+      "texture": "smooth",
+      "appearance": "bright green",
+      "preparation": "blending",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 45,
+    "food_name": "Avocado Toast with Egg",
+    "food_description": "Toasted sourdough topped with smashed avocado and a poached egg.",
+    "food_calories_per_serving": 340,
+    "food_nutritional_factors": {
+      "carbohydrates": "28g",
+      "protein": "14g",
+      "fat": "20g"
+    },
+    "food_ingredients": [
+      "Sourdough",
+      "Avocado",
+      "Egg",
+      "Chili flakes",
+      "Lemon"
+    ],
+    "food_health_benefits": "Healthy fats, protein and fiber",
+    "cooking_method": "Toasting",
+    "cuisine_type": "Health Food",
+    "food_features": {
+      "taste": "savory and fresh",
+      "texture": "crunchy and creamy",
+      "appearance": "green with golden yolk",
+      "preparation": "toasting",
+      "serving_type": "warm"
+    }
+  },
+  {
+    "food_id": 46,
+    "food_name": "Overnight Oats",
+    "food_description": "Oats soaked overnight with chia and banana: a quick meal for busy mornings.",
+    "food_calories_per_serving": 310,
+    "food_nutritional_factors": {
+      "carbohydrates": "48g",
+      "protein": "12g",
+      "fat": "9g"
+    },
+    "food_ingredients": [
+      "Rolled oats",
+      "Milk",
+      "Chia seeds",
+      "Banana",
+      "Peanut butter"
+    ],
+    "food_health_benefits": "Slow-release energy and fiber",
+    "cooking_method": "No-bake",
+    "cuisine_type": "Health Food",
+    "food_features": {
+      "taste": "sweet and nutty",
+      "texture": "creamy",
+      "appearance": "layered jar",
+      "preparation": "no-bake",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 47,
+    "food_name": "Chocolate Lava Cake",
+    "food_description": "A rich chocolate cake with a molten, gooey center.",
+    "food_calories_per_serving": 480,
+    "food_nutritional_factors": {
+      "carbohydrates": "52g",
+      "protein": "6g",
+      "fat": "28g"
+    },
+    "food_ingredients": [
+      "Dark chocolate",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Flour"
+    ],
+    "food_health_benefits": "Dark chocolate antioxidants",
+    "cooking_method": "Baking",
+    "cuisine_type": "Dessert",
+    "food_features": {
+      "taste": "rich and chocolatey",
+      "texture": "gooey center",
+      "appearance": "dark with molten core",
+      "preparation": "baking",
+      "serving_type": "hot"
+    }
+  },
+  {
+    "food_id": 48,
+    "food_name": "New York Cheesecake",
+    "food_description": "Dense, creamy cheesecake on a graham cracker crust, great for a celebration.",
+    "food_calories_per_serving": 430,
+    "food_nutritional_factors": {
+      "carbohydrates": "32g",
+      "protein": "7g",
+      "fat": "31g"
+    },
+    "food_ingredients": [
+      "Cream cheese",
+      "Graham crackers",
+      "Sugar",
+      "Eggs",
+      "Sour cream"
+    ],
+    "food_health_benefits": "Source of calcium",
+    "cooking_method": "Baking",
+    "cuisine_type": "Dessert",
+    "food_features": {
+      "taste": "sweet and tangy",
+      "texture": "dense and creamy",
+      "appearance": "pale with golden edge",
+      "preparation": "baking",
+      "serving_type": "cold"
+    }
+  },
+  {
+    "food_id": 49,
+    "food_name": "Fudge Brownies",
+    "food_description": "Chewy, fudgy chocolate brownies with walnuts.",
+    "food_calories_per_serving": 380,
+    "food_nutritional_factors": {
+      "carbohydrates": "46g",
+      "protein": "5g",
+      "fat": "21g"
+    },
+    "food_ingredients": [
+      "Chocolate",
+      "Butter",
+      "Sugar",
+      "Eggs",
+      "Flour",
+      "Walnuts"
+    ],
+    "food_health_benefits": "Walnuts provide omega-3s",
+    "cooking_method": "Baking",
+    "cuisine_type": "Dessert",
+    "food_features": {
+      "taste": "chocolatey",
+      "texture": "fudgy",
+      "appearance": "dark squares",
+      "preparation": "baking",
+      "serving_type": "room temperature"
+    }
+  },
+  {
+    "food_id": 50,
+    "food_name": "Fresh Fruit Sorbet",
+    "food_description": "A light, dairy-free frozen dessert made from pureed fruit.",
+    "food_calories_per_serving": 140,
+    "food_nutritional_factors": {
+      "carbohydrates": "35g",
+      "protein": "1g",
+      "fat": "0g"
+    },
+    "food_ingredients": [
+      "Mango",
+      "Raspberries",
+      "Lemon juice",
+      "Sugar"
+    ],
+    "food_health_benefits": "Vitamin C; fat-free and low calorie",
+    "cooking_method": "Freezing",
+    "cuisine_type": "Dessert",
+    "food_features": {
+      "taste": "sweet and fruity",
+      "texture": "icy and smooth",
+      "appearance": "vivid colours",
+      "preparation": "freezing",
+      "serving_type": "cold"
+    }
+  }
+]

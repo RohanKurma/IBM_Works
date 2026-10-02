@@ -1,0 +1,7 @@
+chromadb>=1.0.12
+sentence-transformers>=4.1.0
+gradio>=5.0
+requests>=2.31
+python-dotenv>=1.0
+# Optional: only needed for IBM watsonx.ai / Granite
+ibm-watsonx-ai>=1.3.24
