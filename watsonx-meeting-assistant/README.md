@@ -4,6 +4,10 @@ Turn meeting recordings into editable transcripts and structured Markdown minute
 
 Based on the project outline in the uploaded Skills Network document, **Build an AI Meeting Assistant: Instant Notes, Zero Worries**. The readable source describes goals and lab instructions rather than implementation code. This repository provides a new implementation of that outline.
 
+## Learn the project step by step
+
+Open [the beginner-friendly explanatory notebook](notebooks/meeting_assistant_explained.ipynb) for a guided walkthrough of the architecture, a fictional meeting example, Whisper transcription, LangChain prompts, watsonx configuration, exports, troubleshooting and practice questions. Default examples run without IBM calls or audio downloads; live sections are explicitly opt-in. Jupyter setup instructions are included in the notebook.
+
 ## Features
 
 - Upload audio or record from the microphone in a local browser interface.
